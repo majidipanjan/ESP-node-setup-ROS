@@ -8,8 +8,8 @@
 //////////////////////
 // WiFi Definitions //
 //////////////////////
-const char* ssid = "High Speed Wifi";
-const char* password = "83100183";
+const char* ssid = "ssid";
+const char* password = "password";
 
 IPAddress server(192, 168, 0, 107); // ip of your ROS server
 IPAddress ip_address;
